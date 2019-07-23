@@ -1,0 +1,119 @@
+.main {
+    width: 98%;
+    margin: auto;
+}
+.header {
+    width: 98%;
+    background-color: antiquewhite;
+    margin: auto;
+    display: block;
+}
+#logo {
+    background-color: white;
+    width: 21%;
+    float: left;
+}
+#search {
+    width: 70%;
+    float: right;
+    text-align: right;
+    margin-top: 20px;
+    padding-right: 30px;
+}
+#search h4 {
+    text-align: center;
+    font-size: 20px;
+    margin-right: 45px;
+    padding-top: 0;
+}
+.menu {
+    float: left;
+    width: 98%;
+    height: 40px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+.menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 43px;
+    float: left;
+    text-decoration: none;
+    background-color: grey;
+    font-weight: bold;
+}
+.menu a:hover {
+    background-color: orange;
+}
+.content {
+    float: left;
+    display: block;
+    width: 98%;
+    height: 500px;
+}
+#content-left {
+    margin-top: 5px;
+    margin-left: 13px;
+    width: 15%;
+    float: left;
+    background-color: darkseagreen;
+    display: block;
+    padding-top: 10px;
+}
+#content-left span {
+    text-align: center;
+    text-decoration: none;
+    padding-left: 35px;
+    padding-bottom: 30px;
+    font-size: 23px;
+    width: 98%;
+}
+#list {
+    padding-top: 10px;
+    float: left;
+    width: 100%;
+    margin: auto;
+}
+#list a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+#list a:hover {
+    background-color: cadetblue;
+}
+
+.content-right {
+    display: block;
+    width: 82%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.image img {
+    width: 120px;
+    height: 169px;
+    float: left;
+}
+.image {
+    text-align: center;
+    background-color: white;
+    float: left;
+    padding: 30px;
+}
+.config {
+    display: block;
+}
+.item {
+    margin: 10px;
+    padding: 7px;
+}
+.truyen {
+    float: left;
+}
